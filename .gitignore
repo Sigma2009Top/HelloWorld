@@ -1,0 +1,11 @@
+.gitattributes
+.vs
+x64
+Debug
+HelloWorld/x64
+HelloWorld/Debug
+
+*.sln
+*.vcxproj
+*.filters
+*.user
